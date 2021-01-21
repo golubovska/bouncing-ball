@@ -7,11 +7,11 @@
 
  - Latest version is available on the following link: https://nodejs.org/en/download/
 
-- Check Node.js version
+- Check Node.js version, should not be older than 10.16.0
 ```sh
 node -v
 ```
-- Check node project manager (npm) version
+- Check node project manager (npm) version, should not be older than 6.9.0
 ```sh
 npm -v
 ```
